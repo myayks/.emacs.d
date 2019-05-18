@@ -19,7 +19,6 @@
 [[https://github.com/Kungsgeten/org-brain]["Brain map in org mode"]]
 
 * PhD related
-
 ** Localisation
 [[https://www.ncbi.nlm.nih.gov/pubmed/19648450]["Effects of laterality and pitch height of an auditory accessory stimulus on horizontal response selection: the Simon effect and the SMARC effect."]]
 [[https://smartech.gatech.edu/bitstream/handle/1853/50618/Wenzel2001.pdf?sequence=1&isAllowed=y]["EFFECT OF INCREASING SYSTEM LATENCY ON LOCALIZATION OF VIRTUAL SOUNDS WITH SHORT AND LONG DURATION"]]
@@ -29,7 +28,6 @@
 [[https://ncss-wpengine.netdna-ssl.com/wp-content/themes/ncss/pdf/Procedures/NCSS/Circular_Data_Analysis.pdf]["Circular Data Analysis"]]
 [[http://webspace.ship.edu/pgmarr/geo441/lectures/lec%2016%20-%20directional%20statistics.pdf]["Directional (Circular) Statistics"]]
 [[https://dspace.library.uvic.ca/bitstream/handle/1828/2698/zhengsun_master_thesis.pdf?sequence=1&isAllowed=y]["Comparing measures of fit for circular distributions"]]
-
 
 ** Circular stats
 [[https://www.academia.edu/2602333/Statistical_Analysis_of_Circular_Statistics]["Presentation on Circ. Stats"]]
@@ -69,7 +67,6 @@
 [[https://stackoverflow.com/questions/995195/how-can-i-make-a-net-windows-forms-application-that-only-runs-in-the-system-tra][".NET tray application"]]
 [[https://stackoverflow.com/questions/47633577/building-a-tray-application-using-xamarin]["Xamarin tray application"]]
 
-
 ** Continuous Integration
 [[https://www.atlassian.com/continuous-delivery/continuous-integration]["CI tutorial by Atlassian"]]
 
@@ -105,7 +102,6 @@
 [[https://www.behance.net/gallery/15194403/Metria-Free-Display-Font-Free-Download]["Metria"]]
 [[http://www.freebiespsd.com/2015/08/fontaine-typeface-font-free-download.html]["Fontaine"]]
 
-
 ** Music making
 [[https://freetousesounds.com/thunder-sound-effects-lightning-bolt-explosion/?fbclid=IwAR2wR33T4JukSmPpdjktlp-RHma75LRBnIPmNpQnphA9JwgexWE99RC6y8Y]["Free to use sounds"]]
 [[https://university.armadamusic.com/]["Armada University"]]
@@ -113,7 +109,6 @@
 ** Writing
 [[https://prowritingaid.com/]["ProWritingAid"]]
 [[https://www.hostingsprout.com/grammarly-alternatives/]["Top 10 Best Grammarly Alternatives in 2019"]]
-
 
 * Random links
 [[https://www.notion.so]["Notion - nice notepad"]]
