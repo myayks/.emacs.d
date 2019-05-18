@@ -1,24 +1,81 @@
 * Emacs related
 ** Emacs
 [[https://github.com/the-frey/cyberpunk-2019][Cyberpunk theme]]
+[[https://emacs.stackexchange.com/questions/24725/zotero-workflow-into-emacs/24727]["zotero workflow in emacs - reference management"]]
+[[A research workflow with Zotero and Org mode]["Another blog post about research workflow"]]
+[[https://karl-voit.at/2015/12/26/reference-management-with-orgmode/]["Reference management with org mode"]]
 
 ** Org mode
 [[https://blog.aaronbieber.com/2016/01/30/dig-into-org-mode.html]["Dig into org mode"]]
+[[https://sachachua.com/blog/2008/01/outlining-your-notes-with-org/]["Outlining your notes with org mode"]]
+[[http://kitchingroup.cheme.cmu.edu/blog/]["Kitchin blog - useful for research"]]
 
 ** VI & Evil mode
+[[https://blog.aaronbieber.com/2017/08/26/the-right-tool-for-the-job.html]["The right tool for the job - Aaron Bieber"]]
+
+** Useful stuff 
+[[https://github.com/novoid/extract_pdf_annotations_to_orgmode]["Extracting pdf annotation to org mode"]]
+[[https://blogs.mathworks.com/community/2009/09/14/matlab-emacs-integration-is-back/]["Matlab in emacs"]]
+[[https://github.com/Kungsgeten/org-brain]["Brain map in org mode"]]
+
 * PhD related
+
+** Localisation
+[[https://www.ncbi.nlm.nih.gov/pubmed/19648450]["Effects of laterality and pitch height of an auditory accessory stimulus on horizontal response selection: the Simon effect and the SMARC effect."]]
+[[https://smartech.gatech.edu/bitstream/handle/1853/50618/Wenzel2001.pdf?sequence=1&isAllowed=y]["EFFECT OF INCREASING SYSTEM LATENCY ON LOCALIZATION OF VIRTUAL SOUNDS WITH SHORT AND LONG DURATION"]]
+[[https://www.researchgate.net/publication/13782643_The_nature_and_distribution_of_errors_in_sound_localization_by_human_listeners]["The nature and distribution of errors in sound localization by human listeners"]]
+[[https://www.jstage.jst.go.jp/article/ast1980/5/3/5_3_165/_pdf/-char/en]["Localization cues of sound sources in the upper hemisphere"]]
+[[https://pdfs.semanticscholar.org/8af0/6611724a411428b2ba5b637cb1144d6d08ad.pdf]["A More Efficient Way Of Obtaining A Unique Median Estimate For Circular Data"]]
+[[https://ncss-wpengine.netdna-ssl.com/wp-content/themes/ncss/pdf/Procedures/NCSS/Circular_Data_Analysis.pdf]["Circular Data Analysis"]]
+[[http://webspace.ship.edu/pgmarr/geo441/lectures/lec%2016%20-%20directional%20statistics.pdf]["Directional (Circular) Statistics"]]
+[[https://dspace.library.uvic.ca/bitstream/handle/1828/2698/zhengsun_master_thesis.pdf?sequence=1&isAllowed=y]["Comparing measures of fit for circular distributions"]]
+
+
+** Circular stats
+[[https://www.academia.edu/2602333/Statistical_Analysis_of_Circular_Statistics]["Presentation on Circ. Stats"]]
+[[https://www.researchgate.net/post/Goodness-of-fit_test_for_the_Von_Mises-Fisher_distribution2]["Goodness-of-fit test for the Von Mises-Fisher distribution?"]]
+[[http://www.dwc.knaw.nl/DL/publications/PU00018847.pdf]["THE MEDIAN AND IQR RANGE TEST APPLIED TO FREQUENCY DISTRIBUTIONS PLOTTED ON A CIRCULAR AXIS"]]
+[[https://scholarworks.wmich.edu/cgi/viewcontent.cgi?article=1980&context=dissertations]["New Estimators of a Circular Median"]]
+[[http://bethgelab.org/media/publications/J-Stat-Softw-2009-Berens.pdf]["CircStat: A MATLAB Toolbox for Circular Statistics"]]
+[[https://www.sciencedirect.com/science/article/pii/S016502709700201X]["Methods for spherical data analysis and visualization"]]
+[[https://cdm.sites.uu.nl/wp-content/uploads/sites/31/2015/05/It-Is-All-About-The-Circle-An-Inventory-Of-Circular-Data-Jolien-Ketelaar.pdf][It is all about the circle: An inventory of circular data - Thesis"]]
+[[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1310536/]["Parametric versus non-parametric statistics in the analysis of randomized trials with non-normally distributed data"]]
+[[https://www.sciencedirect.com/science/article/pii/S016502709700201X]["Methods for spherical data analysis and visualization"]]
+
+** Other Stats
+[[https://onlinelibrary.wiley.com/doi/pdf/10.1111/j.1469-1809.1951.tb02488.x]["SIMPLE TESTS FOR BIMODALITY AND BITANGENTIALITY"]]
+[[https://www.sciencedirect.com/science/article/pii/S0895435609003096]["A nonparametric two-sample comparison for skewed data with unequal variances"]]
+[[https://stats.stackexchange.com/questions/156808/interpretation-of-hartigans-dip-test?rq=1]["Interpretation of Hartigans' dip test"]]
+[[http://www.mas.ncl.ac.uk/~njnsm/medfac/docs/skewness]["Skewed Data and Non-parametric Methods"]]
+
 ** Extra information
 [[http://www.speech.kth.se/prod/publications/files/4108.pdf]["LTAS in popular music"]]
+[[https://publications.rwth-aachen.de/record/466561/files/466561.pdf?subformat=pdfa]["Partitioned convolution algorithms for real-time auralization"]]
+
+** Recordings
+[[https://sound.media.mit.edu/resources/KEMAR.html]["MIT KEMAR"]]
 
 * Development
 ** C++
 [[https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md]["C++ Core Guidelines"]]
+
+** Mobile
+[[https://romannurik.github.io/AndroidAssetStudio/nine-patches.html#source.type=image&sourceDensity=640&name=exportback2x]["Simple nine-patch generator"]]
+[[https://xamarinhelp.com/xamarin-android-9-patch-image-splashscreen/]["Xamarin 9-patch Image generator"]]
+[[https://xamarinhelp.com/creating-splash-screen-xamarin-forms/]["Creating A Splash Screen In Xamarin Forms"]]
+[[https://medium.com/@thesultanster/xamarin-splash-screens-the-right-way-3d206120726d]["Create Splash Screens on Xamarin Forms: The right way!"]]
+
+** Xamarin
+[[https://stackoverflow.com/questions/995195/how-can-i-make-a-net-windows-forms-application-that-only-runs-in-the-system-tra][".NET tray application"]]
+[[https://stackoverflow.com/questions/47633577/building-a-tray-application-using-xamarin]["Xamarin tray application"]]
+
 
 ** Continuous Integration
 [[https://www.atlassian.com/continuous-delivery/continuous-integration]["CI tutorial by Atlassian"]]
 
 ** Nice read
 [[https://codinginflow.com]["Coding in flow - blog"]]
+[[https://martin.ankerl.com/2009/12/09/how-to-create-random-colors-programmatically/]["How to generate random colors programmatically"]]
 
 * Personal
 ** Diet
@@ -27,6 +84,7 @@
 
 ** BuJo
 [[https://bulletjournal.com/blogs/bulletjournalist/the-bulls-eye]["Bull's Eye"]]
+[[https://sheenaofthejournal.com/productivity/6-time-trackers/]["Time trackers"]]
 
 ** CV
 [[https://imcreator.com/blog/15-creative-flat-resume-designs/]["15 CREATIVE FLAT RESUME DESIGNS"]]
@@ -34,6 +92,32 @@
 ** Personal website
 [[https://www.impactbnd.com/blog/web-design-trends-for-2019]["2019 Web design trends"]]
 [[https://www.toptal.com/designers/ui/minimal-web-design]["Minimal web design"]]
+[[https://www.webdesignerdepot.com/2009/10/the-art-of-branding-yourself-and-your-freelancing-business/]["The art of branding yourself"]]
+
+*** Fonts
+[[https://www.fontfabric.com/fonts/intro/]["Intro"]]
+[[https://www.fontfabric.com/fonts/prime/]["Prime"]]
+[[https://www.behance.net/gallery/15736803/MINISTRY-Free-Font]["Ministry"]]
+[[https://www.behance.net/gallery/26829249/FREE-QONTRA-Font]["Qontra"]]
+[[https://www.behance.net/gallery/15024825/Disclaimer-free-font]["Disclaimer"]]
+[[https://www.behance.net/gallery/37106267/Minimalust-Typeface]["Minimalust"]]
+[[https://www.dafont.com/arenq.font]["Arenq"]]
+[[https://www.behance.net/gallery/15194403/Metria-Free-Display-Font-Free-Download]["Metria"]]
+[[http://www.freebiespsd.com/2015/08/fontaine-typeface-font-free-download.html]["Fontaine"]]
+
+
+** Music making
+[[https://freetousesounds.com/thunder-sound-effects-lightning-bolt-explosion/?fbclid=IwAR2wR33T4JukSmPpdjktlp-RHma75LRBnIPmNpQnphA9JwgexWE99RC6y8Y]["Free to use sounds"]]
+[[https://university.armadamusic.com/]["Armada University"]]
+
+** Writing
+[[https://prowritingaid.com/]["ProWritingAid"]]
+[[https://www.hostingsprout.com/grammarly-alternatives/]["Top 10 Best Grammarly Alternatives in 2019"]]
+
 
 * Random links
 [[https://www.notion.so]["Notion - nice notepad"]]
+[[https://nextcloud.com/install/]["Home cloud setup with Nextcloud"]]
+[[http://projekti.engelapasts.lv/projekts/piepildi-sapni]["Piepildi sapnus programmma Latvijaa"]]
+[[https://git-lfs.github.com./]["Large file storage - GitHub"]]
+
