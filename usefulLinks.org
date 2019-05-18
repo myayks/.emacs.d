@@ -1,0 +1,39 @@
+* Emacs related
+** Emacs
+[[https://github.com/the-frey/cyberpunk-2019][Cyberpunk theme]]
+
+** Org mode
+[[https://blog.aaronbieber.com/2016/01/30/dig-into-org-mode.html]["Dig into org mode"]]
+
+** VI & Evil mode
+* PhD related
+** Extra information
+[[http://www.speech.kth.se/prod/publications/files/4108.pdf]["LTAS in popular music"]]
+
+* Development
+** C++
+[[https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md]["C++ Core Guidelines"]]
+
+** Continuous Integration
+[[https://www.atlassian.com/continuous-delivery/continuous-integration]["CI tutorial by Atlassian"]]
+
+** Nice read
+[[https://codinginflow.com]["Coding in flow - blog"]]
+
+* Personal
+** Diet
+[[https://nutritionfacts.org/app/uploads/2018/03/metric.png]["Mc Greggor daily dozen"]]
+[[https://nutritionfacts.org]["Nutrition facts"]]
+
+** BuJo
+[[https://bulletjournal.com/blogs/bulletjournalist/the-bulls-eye]["Bull's Eye"]]
+
+** CV
+[[https://imcreator.com/blog/15-creative-flat-resume-designs/]["15 CREATIVE FLAT RESUME DESIGNS"]]
+
+** Personal website
+[[https://www.impactbnd.com/blog/web-design-trends-for-2019]["2019 Web design trends"]]
+[[https://www.toptal.com/designers/ui/minimal-web-design]["Minimal web design"]]
+
+* Random links
+[[https://www.notion.so]["Notion - nice notepad"]]
